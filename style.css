@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.first-1 {
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 6rem 4rem 6rem;
+    height: 4rem;
+    font-size: 1.7rem;
+}
+.first-1 .left {
+    /* font-size: 1.2rem; */
+}
+.first-1 .right {
+    
+}
+.first-1 .right a{
+    text-decoration: none;
+    color: black;
+    /* font-size: 1.2rem; */
+    font-weight: 600;
+    margin-left: 1.5rem;
+}
+.second-2 {
+    display: flex;
+}
+.second-2 .left {
+    width: 65%;
+    padding: 4rem;
+    padding-left: 6rem;
+}
+.second-2 .left h1 {
+    margin-bottom: 2rem;
+    font-size: 3.5rem;
+    color: rgb(6, 6, 75);
+}
+.second-2 .left p {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+.second-2 .left input {
+    background-color: #FF6464;
+    color: white;
+    border: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1.5rem;
+}
+.second-2 .right {
+    width: 35%;
+}
+.second-2 .right img {
+    margin-top: 2.5rem;
+    height: 20rem;
+}
+.third-3 {
+    padding: 4rem 6rem 4rem 6rem;
+    background-color: rgb(230, 237, 242);
+    height: 32rem;
+}
+.third-3 .top {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+.third-3 .bottom {
+    display: flex;
+    justify-content: space-between;
+}
+.third-3 .bottom .left {
+    background-color: white;
+    height: 22rem;
+    width: 48%;
+    padding: 3rem 2rem;
+}
+.third-3 .bottom .right{
+    background-color: white;
+    height: 22rem;
+    width: 48%;
+    padding: 3rem 2rem;
+}
+.third-3 .bottom .left .one h2 {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+}
+.third-3 .bottom .right .one h2 {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+}
+.third-3 .bottom .left .two p {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.third-3 .bottom .right .two p {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.third-3 .bottom .left .three p {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.third-3 .bottom .right .three p {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.third-3 .bottom .right .three{
+    
+}
+
+.forth-4 {
+    padding: 4rem 6rem 4rem 6rem;
+}
+.forth-4 .top {
+    font-size: 2.2rem;
+    margin-bottom: 3rem;
+    
+}
+.forth-4 .one {
+    display: flex;
+    margin: 2rem 0rem;
+}
+.forth-4 .one .left {
+    width: 30%;
+}
+.forth-4 .one .left img{
+    width: 20rem;
+}
+.forth-4 .one .right {
+    width: 70%;
+}
+.forth-4 .one .right h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.babita {
+    background-color: rgb(5, 5, 46);
+    color: white;
+    font-weight: 600;
+    padding: 0.3rem 0.7rem;
+    border-radius: 1rem;
+    margin-bottom: 5rem;
+}
+.babita2 {
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    color: gray;
+    margin-bottom: 5rem;
+}
+.forth-4 .one .right p {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+
+
+.forth-4 .two {
+    display: flex;
+    margin: 2rem 0rem;
+}
+.forth-4 .two .left {
+    width: 30%;
+}
+.forth-4 .two .left img{
+    width: 20rem;
+}
+.forth-4 .two .right {
+    width: 70%;
+}
+.forth-4 .two .right h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.forth-4 .two .right p {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.forth-4 .three {
+    display: flex;
+    margin: 2rem 0rem;
+}
+.forth-4 .three .left {
+    width: 30%;
+}
+.forth-4 .three .left img{
+    width: 20rem;
+}
+.forth-4 .three .right {
+    width: 70%;
+}
+.forth-4 .three .right h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.forth-4 .three .right p {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+
+
+.fifth-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 20rem;
+    margin-top: 5rem;
+    margin-bottom: 0.1rem;
+}
+.fifth-5 .top {
+    margin-bottom: 2rem;
+}
+.fifth-5 img {
+    padding: 0rem 1.2rem;
+    height: 2.5rem;
+}
+.fifth-5 p {
+    font-size: 1.1rem;
+    text-align: center;
+}
